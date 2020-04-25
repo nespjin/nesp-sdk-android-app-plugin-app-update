@@ -1,0 +1,36 @@
+<!--
+  ~
+  ~   Copyright (c) 2019  NESP Technology Corporation. All rights reserved.
+  ~
+  ~   This program is free software; you can redistribute it and/or modify it
+  ~   under the terms and conditions of the GNU General Public License,
+  ~   version 2, as published by the Free Software Foundation.
+  ~
+  ~   Unless required by applicable law or agreed to in writing, software
+  ~   distributed under the License.See the License for the specific language governing permission and
+  ~   limitations under the License.
+  ~
+  ~   If you have any questions or if you find a bug,
+  ~   please contact the author by email or ask for Issues.
+  ~
+  ~   Author:JinZhaolu <1756404649@qq.com>
+  -->
+
+<resources>
+    <string name="app_update_loading_dialog_checking_message">正在检查更新....</string>
+    <string name="progress_dialog_btn_no_text">取消</string>
+    <string name="app_update_dialog_btn_no">取消</string>
+    <string name="progress_dialog_message_downloading">正在下载...</string>
+    <string name="progress_dialog_toast_start_download">开始下载</string>
+    <string name="progress_dialog_toast_download_seccess">下载成功</string>
+    <string name="progress_dialog_toast_download_failed">下载失败</string>
+    <string name="progress_dialog_toast_download_pause">暂停下载</string>
+    <string name="progress_dialog_toast_download_cancel">取消下载</string>
+    <string name="app_update_toast_llink_server_failed">服务器开小差啦！</string>
+    <string name="app_update_toast_is_last_version">已经是最新版本</string>
+    <string name="app_update_dialog_title">新版本：</string>
+    <string name="app_update_dialog_btn_yes">更新</string>
+    <string name="app_update_toast_link_wifi_to_download_update">请连接WIFI后再下载更新</string>
+    <string name="app_update_is_last_version">已经是最新版</string>
+    <string name="app_update_server_error">服务器开小差了</string>
+</resources>
